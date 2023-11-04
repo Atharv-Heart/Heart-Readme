@@ -9,7 +9,6 @@ Welcome to Atharv, an innovative mobile app that combines augmented reality (AR)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
