@@ -4,6 +4,8 @@ The description of Atharv application
 
 Welcome to Atharv, an innovative mobile app that combines augmented reality (AR) technology with historical preservation, navigation, gaming, and social elements. Explore the world's historical wonders and experience the past like never before.
 
+![Atharv](https://github.com/Atharv-Heart/Heart-WebLand/blob/main/src/assets/AtharvIntro.png)
+
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
