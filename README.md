@@ -45,6 +45,11 @@ Welcome to Atharv, an innovative mobile app that combines augmented reality (AR)
 
 To get started with Atharv, follow these steps:
 
+1. Install Google Play Servives for AR from PlayStore 
+2. Download the apk file and install it in your Android device.
+
+(OR)
+
 1. Clone the repository to your local machine.
 2. Set up your development environment and install the required dependencies.
 3. Build and run the application on your Android.
@@ -55,7 +60,7 @@ To get started with Atharv, follow these steps:
 Here's how you can use Atharv:
 
 1. Sign in to the app and access your camera scanner.
-2. Explore historical sites and scan objects to reveal their historical significance.
+2. Explore historical sites and scan objects to reveal their past glory.
 3. Enjoy the AR guides, games, and navigation features.
 4. Collect coins and redeem rewards at local shops.
 
