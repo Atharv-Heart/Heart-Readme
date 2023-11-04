@@ -1,5 +1,4 @@
 # Heart-Readme
-The description of Atharv application
 # Atharv - Augmented Reality Historical Exploration
 
 Welcome to Atharv, an innovative mobile app that combines augmented reality (AR) technology with historical preservation, navigation, gaming, and social elements. Explore the world's historical wonders and experience the past like never before.
